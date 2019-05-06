@@ -1,0 +1,15 @@
+body{
+  margin:0px;
+  padding: 0px;
+  background: linear-gradient(#f5f7fa, #c3cfe2);;
+}
+canvas{
+  border:1px solid black;
+  margin-left:180px;
+  margin-top: 50px;
+  }
+.footer{
+  width:1000px;
+  height: auto;
+    background: linear-gradient(#f5f7fa, #c3cfe2);
+}
